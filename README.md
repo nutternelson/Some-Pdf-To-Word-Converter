@@ -225,4 +225,4 @@ Sejda PDF Desktop is provided as a full **free version** with **all features and
 **Get started with Sejda PDF Desktop today and unlock the full potential of your PDF files!**
 
 ---
-**Last updated:** 2026-09-19 19:41:56 UTC
+**Last updated:** 2026-09-19 21:51:50 UTC
